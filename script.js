@@ -12,11 +12,11 @@ var texts = [
     "I am the bone of my sword.",
     "The quick brown fox jumps over the lazy dog",
     "Steel is my body and fire is my blood.",
-    "I have created over a thousand blades.",
+    "I have created over a thousand blades 123 ?;l-+=.",
     "Unknown to death, Nor known to life.",
-    "Have withstood pain to create many weapons.",
-    "Yet, those hands will never hold anything.",
-    "So, as I pray. Unlimited Blade Works!"
+    "Have =# withstood pain to create many weapons.",
+    "Yet, those :} hands will never hold anything.",
+    "So, as I pray @. Unlimited Blade Works!"
 ]
 
 
