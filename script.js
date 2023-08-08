@@ -10,6 +10,7 @@ var interval;
 var timerRunning = false;
 var texts = [
     "I am the bone of my sword.",
+    "The quick brown fox jumps over the lazy dog",
     "Steel is my body and fire is my blood.",
     "I have created over a thousand blades.",
     "Unknown to death, Nor known to life.",
